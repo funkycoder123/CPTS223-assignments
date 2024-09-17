@@ -1,0 +1,3 @@
+C:/Users/lucky/Desktop/mother cpt223/pa1/build/CMakeFiles/pa1.dir
+C:/Users/lucky/Desktop/mother cpt223/pa1/build/CMakeFiles/edit_cache.dir
+C:/Users/lucky/Desktop/mother cpt223/pa1/build/CMakeFiles/rebuild_cache.dir
