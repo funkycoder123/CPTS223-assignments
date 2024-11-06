@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/lucky/Desktop/MA2 cs223/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -Wall -g -std=gnu++11 -o CMakeFiles\\MA2.dir\\main.cpp.obj -c \"C:\\Users\\lucky\\Desktop\\MA2 cs223\\main.cpp\"",
+  "file": "C:\\Users\\lucky\\Desktop\\MA2 cs223\\main.cpp",
+  "output": "CMakeFiles\\MA2.dir\\main.cpp.obj"
+}
+]
