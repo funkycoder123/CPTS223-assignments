@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/lucky/Desktop/ma5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -Wall -g -std=gnu++11 -o CMakeFiles\\MA5.dir\\main.cpp.obj -c C:\\Users\\lucky\\Desktop\\ma5\\main.cpp",
+  "file": "C:\\Users\\lucky\\Desktop\\ma5\\main.cpp",
+  "output": "CMakeFiles\\MA5.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/lucky/Desktop/ma5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -Wall -g -std=gnu++11 -o CMakeFiles\\MA5.dir\\DisjointSets.cpp.obj -c C:\\Users\\lucky\\Desktop\\ma5\\DisjointSets.cpp",
+  "file": "C:\\Users\\lucky\\Desktop\\ma5\\DisjointSets.cpp",
+  "output": "CMakeFiles\\MA5.dir\\DisjointSets.cpp.obj"
+}
+]
